@@ -1,5 +1,1 @@
-provider "aws" {
-}
-
-resource "aws_instance" {
-}
+resource "null_resource" "example" {}
